@@ -22,7 +22,8 @@ def usage():
 # graph = {}
 def main():
 	global args; args = usage()
-	global graph; graph = {}	
+	global graph; graph = {}
+	global misc_url; misc_url = {}	
 	global elist; elist = []	
 	try:
 		urls = [line.rstrip() for line in open(args.infile)]
@@ -37,12 +38,24 @@ def main():
 	try: map(check, urls[offset:offset+part-1]) 
 	except KeyboardInterrupt: pass
 
+	# saving result in multiply files (need parsing)
 	print('\nResult:')
 	ofile = open('./parsed/error-' + args.infile[:-5] + str(offset) + '.cors', 'w')
+	ofile.write('Urls: ' + str(len(urls)) + "\n" + str(offset) + '-' + str(offset+part-1) + '\n')	
 	for k, v in graph.items():
 		print(k + '::' + str(v))
 		ofile.write(k + '::' + str(v) + '\n')
-	print('\nerrors: ' + str(len(elist)) + ' (look error.cors)')
+	print('misconfiguration table parsed! (look error.cors)')
+	ofile.write('==================================\n')
+	ofile.write('Misconfiguration table:\n')
+	for misc, url_list in misc_url.items():
+		ofile.write(misc)
+		for	url in url_list:
+			ofile.write('::')
+			ofile.write(url)
+		ofile.write('\n')
+	print('errors: ' + str(len(elist)) + ' (look error.cors)')
+	ofile.write('==================================\n')	
 	ofile.write('Errors: ' + str(len(elist)) + '\n')
 	for e in elist:
 		ofile.write(e + '\n')
@@ -120,23 +133,32 @@ def sld(host):
 
 def error(url, msg):
 	global elist
+	url = re.sub("^https?://", "", url)	
 	print "\x1b[2m" + url, "- Error:", msg + "\x1b[0m" 
 	elist.append(url)
 def alert(url, msg):
-	global graph
+	global graph, misc_url
+	url = re.sub("^https?://", "", url)
 	print "\x1b[97;41m" + url, "- Alert:", msg + "\x1b[0m"
+	misc_url.setdefault(msg, []).append(url)
 	graph[msg] = graph.get(msg, 0) + 1
 def invalid(url, msg):
-	global graph
+	global graph, misc_url
+	url = re.sub("^https?://", "", url)	
 	print "\x1b[30;43m" + url, "- Invalid:", msg + "\x1b[0m"
+	misc_url.setdefault(msg, []).append(url)
 	graph[msg] = graph.get(msg, 0) + 1
 def warning(url, msg):
-	global graph
+	global graph, misc_url
+	url = re.sub("^https?://", "", url)	
 	print "\x1b[30;48;5;202m" + url, "- Warning:", msg + "\x1b[0m"
+	misc_url.setdefault(msg, []).append(url)
 	graph[msg] = graph.get(msg, 0) + 1
 def notvuln(url, msg):
+	url = re.sub("^https?://", "", url)	
 	print "\x1b[97;100m" + url, "- Not vulnerable:", msg + "\x1b[0m"
 def info(url, msg):
+	url = re.sub("^https?://", "", url)	
 	print "\x1b[30;42m" + url, "- Access-Control-Allow-Origin:", msg + "\x1b[0m"
 
 # -------------------------------------------------------------------------------------------------
