@@ -130,33 +130,38 @@ def sld(host):
 	if host.count('.') == 1: return True
 
 # -------------------------------------------------------------------------------------------------
-
+logfile = open('log.txt', 'a')
 def error(url, msg):
 	global elist
 	url = re.sub("^https?://", "", url)	
-	print "\x1b[2m" + url, "- Error:", msg + "\x1b[0m" 
+	print "\x1b[2m" + url, "- Error:", msg + "\x1b[0m"
+	logfile.write(url + " - Error:" + msg + '\n')
 	elist.append(url)
 def alert(url, msg):
 	global graph, misc_url
 	url = re.sub("^https?://", "", url)
 	print "\x1b[97;41m" + url, "- Alert:", msg + "\x1b[0m"
+	logfile.write(url + " - Alert:" + msg + '\n')	
 	misc_url.setdefault(msg, []).append(url)
 	graph[msg] = graph.get(msg, 0) + 1
 def invalid(url, msg):
 	global graph, misc_url
 	url = re.sub("^https?://", "", url)	
 	print "\x1b[30;43m" + url, "- Invalid:", msg + "\x1b[0m"
+	logfile.write(url + " - Invalid:" + msg + '\n')	
 	misc_url.setdefault(msg, []).append(url)
 	graph[msg] = graph.get(msg, 0) + 1
 def warning(url, msg):
 	global graph, misc_url
 	url = re.sub("^https?://", "", url)	
 	print "\x1b[30;48;5;202m" + url, "- Warning:", msg + "\x1b[0m"
+	logfile.write(url + " - Warning:" + msg + '\n')	
 	misc_url.setdefault(msg, []).append(url)
 	graph[msg] = graph.get(msg, 0) + 1
 def notvuln(url, msg):
 	url = re.sub("^https?://", "", url)	
 	print "\x1b[97;100m" + url, "- Not vulnerable:", msg + "\x1b[0m"
+	logfile.write(url + " - Not vulnerable:" + msg + '\n')		
 def info(url, msg):
 	url = re.sub("^https?://", "", url)	
 	print "\x1b[30;42m" + url, "- Access-Control-Allow-Origin:", msg + "\x1b[0m"

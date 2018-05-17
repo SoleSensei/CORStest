@@ -1,0 +1,1041 @@
+vk.com - Not vulnerable:Access-Control-Allow-Origin header not present
+yandex.ru - Alert:Access-Control-Allow-Credentials present
+yandex.ru - Warning:Arbitrary subdomains allowed
+google.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+youtube.com - Not vulnerable:Access-Control-Allow-Origin header not present
+mail.ru - Alert:Access-Control-Allow-Credentials present
+mail.ru - Warning:Arbitrary subdomains allowed
+ok.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+google.com - Not vulnerable:Access-Control-Allow-Origin header not present
+avito.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+aliexpress.com - Not vulnerable:Access-Control-Allow-Origin header not present
+wikipedia.org - Not vulnerable:Access-Control-Allow-Origin header not present
+instagram.com - Not vulnerable:Access-Control-Allow-Origin header not present
+sberbank.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+rambler.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+gismeteo.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+livejournal.com - Not vulnerable:Access-Control-Allow-Origin header not present
+ria.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+kinopoisk.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+userapi.com - Error:HTTP Error 502: Bad Gateway
+gosuslugi.ru - Alert:Access-Control-Allow-Credentials present
+gosuslugi.ru - Invalid:Multiple values in Access-Control-Allow-Origin
+drom.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+pikabu.ru - Alert:Access-Control-Allow-Credentials present
+pikabu.ru - Alert:Custom header allow with no vary origin - client cache poisoning danger
+pikabu.ru - Warning:Arbitrary subdomains allowed
+facebook.com - Not vulnerable:Access-Control-Allow-Origin header not present
+rbc.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+twitch.tv - Not vulnerable:Access-Control-Allow-Origin header not present
+drive2.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+hh.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+lenta.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+yaplakal.com - Not vulnerable:Access-Control-Allow-Origin header not present
+fb.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+wildberries.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+infourok.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+rt.com - Not vulnerable:Access-Control-Allow-Origin header not present
+kino-hd1080.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+kp.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+wikia.com - Not vulnerable:Access-Control-Allow-Origin header not present
+ivi.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+ozon.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+gazeta.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+rutracker.org - Not vulnerable:Access-Control-Allow-Origin header not present
+znanija.com - Not vulnerable:Access-Control-Allow-Origin header not present
+pochta.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+vesti.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+mk.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+dnevnik.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+sdamgia.ru - Alert:Custom header allow with no vary origin - client cache poisoning danger
+sbrf.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+seasonvar.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+vkuseraudio.net - Not vulnerable:Access-Control-Allow-Origin header not present
+studfiles.net - Not vulnerable:Access-Control-Allow-Origin header not present
+mos.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+rutube.ru - Alert:Access-Control-Allow-Credentials present
+rutube.ru - Alert:Custom header allow with no vary origin - client cache poisoning danger
+rutube.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+4pda.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+2gis.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+microsoft.com - Not vulnerable:Access-Control-Allow-Origin header not present
+tnt-online.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+championat.com - Not vulnerable:Access-Control-Allow-Origin header not present
+nalog.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+consultant.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+mts.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+vseigru.net - Not vulnerable:Access-Control-Allow-Origin header not present
+rp5.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+auto.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+ficbook.net - Not vulnerable:Access-Control-Allow-Origin header not present
+tass.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+worldoftanks.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+24smi.info - Not vulnerable:Access-Control-Allow-Origin header not present
+rt.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+booking.com - Not vulnerable:Access-Control-Allow-Origin header not present
+fishki.net - Not vulnerable:Access-Control-Allow-Origin header not present
+echo.msk.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+otzovik.com - Not vulnerable:Access-Control-Allow-Origin header not present
+liveinternet.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+citilink.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+ebay.com - Not vulnerable:Access-Control-Allow-Origin header not present
+life.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+mvideo.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+youla.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+irecommend.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+sportbox.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+twitter.com - Not vulnerable:Access-Control-Allow-Origin header not present
+ucoz.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+playground.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+xvideos.com - Not vulnerable:Access-Control-Allow-Origin header not present
+lentainform.com - Not vulnerable:Access-Control-Allow-Origin header not present
+bolshoyvopros.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+adme.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+labirint.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+qiwi.com - Not vulnerable:Access-Control-Allow-Origin header not present
+academic.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+lamoda.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+smi2.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+fotostrana.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+narod.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+lostfilm.tv - Not vulnerable:Access-Control-Allow-Origin header not present
+mosreg.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+tiu.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+yadi.sk - Not vulnerable:Access-Control-Allow-Origin header not present
+tumblr.com - Not vulnerable:Access-Control-Allow-Origin header not present
+fast-torrent.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+tsargrad.tv - Not vulnerable:Access-Control-Allow-Origin header not present
+beeline.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+gdz.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+sports.ru - Alert:Access-Control-Allow-Credentials present
+sports.ru - Warning:Access-Control-Allow-Origin dynamically generated
+sports.ru - Warning:Arbitrary subdomains allowed
+mirtesen.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+kommersant.ru - Alert:Access-Control-Allow-Credentials present
+kommersant.ru - Warning:Non-ssl site allowed
+mozilla.org - Not vulnerable:Access-Control-Allow-Origin header not present
+meduza.io - Not vulnerable:Access-Control-Allow-Origin header not present
+rg.ru - Alert:Access-Control-Allow-Credentials present
+rg.ru - Warning:Arbitrary subdomains allowed
+dns-shop.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+iz.ru - Alert:Access-Control-Allow-Credentials present
+iz.ru - Invalid:Wrong use of wildcard, only single "*" is valid
+1tv.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+telegram.org - Not vulnerable:Access-Control-Allow-Origin header not present
+vz.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+megafon.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+fanserials.co - Not vulnerable:Access-Control-Allow-Origin header not present
+livemaster.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+rzd.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+farpost.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+eldorado.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+muzofond.org - Not vulnerable:Access-Control-Allow-Origin header not present
+cian.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+t.me - Not vulnerable:Access-Control-Allow-Origin header not present
+aif.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+riafan.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+savefrom.net - Not vulnerable:Access-Control-Allow-Origin header not present
+animevost.org - Not vulnerable:Access-Control-Allow-Origin header not present
+filmitorrent.org - Not vulnerable:Access-Control-Allow-Origin header not present
+sport-express.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+habrahabr.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+superjob.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+ask.fm - Not vulnerable:Access-Control-Allow-Origin header not present
+adobe.com - Not vulnerable:Access-Control-Allow-Origin header not present
+live.com - Not vulnerable:Access-Control-Allow-Origin header not present
+nsportal.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+ura.news - Not vulnerable:Access-Control-Allow-Origin header not present
+topwar.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+readmanga.me - Not vulnerable:Access-Control-Allow-Origin header not present
+tutu.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+mir-press.com - Not vulnerable:Access-Control-Allow-Origin header not present
+pornhub.com - Not vulnerable:Access-Control-Allow-Origin header not present
+alfabank.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+online-life.club - Not vulnerable:Access-Control-Allow-Origin header not present
+gdeposylka.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+maam.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+interfax.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+ren.tv - Not vulnerable:Access-Control-Allow-Origin header not present
+ntv.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+muz-color.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+kino-teatr.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+leroymerlin.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+vkuservideo.net - Not vulnerable:Access-Control-Allow-Origin header not present
+uchi.ru - Alert:Access-Control-Allow-Credentials present
+uchi.ru - Warning:Access-Control-Allow-Origin dynamically generated
+uchi.ru - Alert:Origin reflection
+doramatv.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+2ch.hk - Not vulnerable:Access-Control-Allow-Origin header not present
+mamba.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+wargaming.net - Not vulnerable:Access-Control-Allow-Origin header not present
+e1.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+vseinstrumenti.ru - Alert:Custom header allow with no vary origin - client cache poisoning danger
+vseinstrumenti.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+lifehacker.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+coub.com - Not vulnerable:Access-Control-Allow-Origin header not present
+txxx.com - Not vulnerable:Access-Control-Allow-Origin header not present
+rueconomics.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+anidub.com - Not vulnerable:Access-Control-Allow-Origin header not present
+stoloto.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+exist.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+woman.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+matchtv.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+seria-z.net - Not vulnerable:Access-Control-Allow-Origin header not present
+myshared.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+24video.sexy - Not vulnerable:Access-Control-Allow-Origin header not present
+reverso.net - Not vulnerable:Access-Control-Allow-Origin header not present
+myscore.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+tatar.ru - Alert:Access-Control-Allow-Credentials present
+tatar.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+cyberleninka.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+doubleclick.net - Not vulnerable:Access-Control-Allow-Origin header not present
+kakprosto.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+roblox.com - Not vulnerable:Access-Control-Allow-Origin header not present
+fastpic.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+torrent-games.net - Not vulnerable:Access-Control-Allow-Origin header not present
+shikimori.org - Warning:Access-Control-Allow-Origin dynamically generated
+shikimori.org - Not vulnerable:Access-Control-Allow-Origin header not present
+youla.io - Not vulnerable:Access-Control-Allow-Origin header not present
+cosmo.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+multiurok.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+svyaznoy.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+megaresheba.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+reddit.com - Not vulnerable:Access-Control-Allow-Origin header not present
+aviasales.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+studopedia.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+rus.porn - Error:HTTP Error 403: Forbidden
+yummyanime.com - Not vulnerable:Access-Control-Allow-Origin header not present
+zvooq.online - Not vulnerable:Access-Control-Allow-Origin header not present
+banki.ru - Alert:Custom header allow with no vary origin - client cache poisoning danger
+litres.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+bitrix24.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+apple.com - Not vulnerable:Access-Control-Allow-Origin header not present
+ngs.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+regnum.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+soundcloud.com - Not vulnerable:Access-Control-Allow-Origin header not present
+pinterest.com - Not vulnerable:Access-Control-Allow-Origin header not present
+tvzvezda.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+garant.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+winfortuna.com - Error:<urlopen error [Errno -5] No address associated with hostname>
+7days.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+teleprogramma.pro - Not vulnerable:Access-Control-Allow-Origin header not present
+deviantart.com - Not vulnerable:Access-Control-Allow-Origin header not present
+sportmaster.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+ikea.com - Not vulnerable:Access-Control-Allow-Origin header not present
+ipleer.fm - Not vulnerable:Access-Control-Allow-Origin header not present
+bonprix.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+allbest.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+ulmart.ru - Alert:Access-Control-Allow-Credentials present
+ulmart.ru - Alert:Origin reflection
+stihi.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+asos.com - Not vulnerable:Access-Control-Allow-Origin header not present
+tinkoff.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+tripadvisor.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+regmarkets.ru - Error:The read operation timed out
+topcinema.tv - Not vulnerable:Access-Control-Allow-Origin header not present
+career.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+sima-land.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+xn--i1abbnckbmcl9fb.xn--p1ai - Not vulnerable:Access-Control-Allow-Origin header not present
+russia.tv - Not vulnerable:Access-Control-Allow-Origin header not present
+discordapp.com - Not vulnerable:Access-Control-Allow-Origin header not present
+wordpress.com - Not vulnerable:Access-Control-Allow-Origin header not present
+starhit.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+t.co - Not vulnerable:Access-Control-Allow-Origin header not present
+infox.sg - Not vulnerable:Access-Control-Allow-Origin header not present
+amazon.com - Not vulnerable:Access-Control-Allow-Origin header not present
+kopilkaurokov.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+domofond.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+onlinetrade.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+telegra.ph - Error:<urlopen error [Errno 111] Connection refused>
+rusprofile.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+rusvesna.su - Not vulnerable:Access-Control-Allow-Origin header not present
+imgur.com - Not vulnerable:Access-Control-Allow-Origin header not present
+ixbt.com - Not vulnerable:Access-Control-Allow-Origin header not present
+e-katalog.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+steamcommunity.com - Not vulnerable:Access-Control-Allow-Origin header not present
+poiskm.co - Not vulnerable:Access-Control-Allow-Origin header not present
+kontur.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+speedtest.net - Alert:Access-Control-Allow-Credentials present
+speedtest.net - Warning:Access-Control-Allow-Origin dynamically generated
+mintmanga.com - Not vulnerable:Access-Control-Allow-Origin header not present
+zaycev.net - Not vulnerable:Access-Control-Allow-Origin header not present
+thequestion.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+vsetop.com - Not vulnerable:Access-Control-Allow-Origin header not present
+porno365.xxx - Not vulnerable:Access-Control-Allow-Origin header not present
+eljur.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+360tv.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+radikal.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+avon.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+zakupki.gov.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+sbis.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+syl.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+russianfood.com - Not vulnerable:Access-Control-Allow-Origin header not present
+yandex.net - Not vulnerable:Access-Control-Allow-Origin header not present
+cyberforum.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+kinoserv.net - Not vulnerable:Access-Control-Allow-Origin header not present
+cntd.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+vedomosti.ru - Alert:Access-Control-Allow-Credentials present
+vedomosti.ru - Warning:Access-Control-Allow-Origin dynamically generated
+vedomosti.ru - Alert:Origin reflection
+tele2.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+ya.ru - Alert:Access-Control-Allow-Credentials present
+ya.ru - Warning:Arbitrary subdomains allowed
+googleusercontent.com - Error:<urlopen error [Errno -5] No address associated with hostname>
+rutor.info - Not vulnerable:Access-Control-Allow-Origin header not present
+track24.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+vazhno.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+diary.ru - Alert:Access-Control-Allow-Credentials present
+diary.ru - Warning:Arbitrary subdomains allowed
+vokrug.tv - Not vulnerable:Access-Control-Allow-Origin header not present
+torrent9.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+livelib.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+wikimedia.org - Not vulnerable:Access-Control-Allow-Origin header not present
+svpressa.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+220-volt.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+detmir.ru - Alert:Access-Control-Allow-Credentials present
+trinixy.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+onlinefilm-hd.com - Not vulnerable:Access-Control-Allow-Origin header not present
+cont.ws - Not vulnerable:Access-Control-Allow-Origin header not present
+showjet.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+x-minus.me - Not vulnerable:Access-Control-Allow-Origin header not present
+glaz.tv - Not vulnerable:Access-Control-Allow-Origin header not present
+yota.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+office.com - Not vulnerable:Access-Control-Allow-Origin header not present
+msn.com - Not vulnerable:Access-Control-Allow-Origin header not present
+vpornoonlain.tv - Not vulnerable:Access-Control-Allow-Origin header not present
+afisha.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+pozdravok.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+iherb.com - Error:<urlopen error [Errno 111] Connection refused>
+zoon.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+twirpx.com - Not vulnerable:Access-Control-Allow-Origin header not present
+stackoverflow.com - Not vulnerable:Access-Control-Allow-Origin header not present
+letyshops.com - Not vulnerable:Access-Control-Allow-Origin header not present
+meshok.net - Not vulnerable:Access-Control-Allow-Origin header not present
+lostfilmhd.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+online-red.com - Not vulnerable:Access-Control-Allow-Origin header not present
+pornolomka.net - Not vulnerable:Access-Control-Allow-Origin header not present
+vtb.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+thestartmagazine.com - Not vulnerable:Access-Control-Allow-Origin header not present
+cdninstagram.com - Error:<urlopen error [Errno -5] No address associated with hostname>
+kanobu.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+videomore.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+rosreestr.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+game-bonuses.club - Error:HTTP Error 401: Unauthorized
+tophotels.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+elibrary.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+mp3party.net - Not vulnerable:Access-Control-Allow-Origin header not present
+tvrain.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+inosmi.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+skyscanner.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+vimeo.com - Not vulnerable:Access-Control-Allow-Origin header not present
+joyreactor.cc - Not vulnerable:Access-Control-Allow-Origin header not present
+newsru.com - Not vulnerable:Access-Control-Allow-Origin header not present
+geektimes.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+onlinemultfilmy.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+genius.com - Not vulnerable:Access-Control-Allow-Origin header not present
+apteka.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+turbobit.net - Not vulnerable:Access-Control-Allow-Origin header not present
+pleer.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+prostoporno.sex - Not vulnerable:Access-Control-Allow-Origin header not present
+pornolab.net - Not vulnerable:Access-Control-Allow-Origin header not present
+megogo.ru - Alert:Access-Control-Allow-Credentials present
+megogo.ru - Warning:Access-Control-Allow-Origin dynamically generated
+megogo.ru - Alert:Origin reflection
+creofive.com - Not vulnerable:Access-Control-Allow-Origin header not present
+smiya.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+online-freebee.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+ykt.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+gearbest.com - Not vulnerable:Access-Control-Allow-Origin header not present
+vistanews.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+studbooks.net - Not vulnerable:Access-Control-Allow-Origin header not present
+lostfilm-hd720.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+pravda.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+ertelecom.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+xn--b1aew.xn--p1ai - Not vulnerable:Access-Control-Allow-Origin header not present
+shutterstock.com - Not vulnerable:Access-Control-Allow-Origin header not present
+retre.org - Not vulnerable:Access-Control-Allow-Origin header not present
+clo-route.ru - Error:HTTP Error 404: Not Found
+wiktionary.org - Not vulnerable:Access-Control-Allow-Origin header not present
+znak.com - Not vulnerable:Access-Control-Allow-Origin header not present
+n-torrents.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+exosrv.com - Error:<urlopen error [Errno -5] No address associated with hostname>
+pornosveta.com - Not vulnerable:Access-Control-Allow-Origin header not present
+coinmarketcap.com - Not vulnerable:Access-Control-Allow-Origin header not present
+webmoney.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+steampowered.com - Not vulnerable:Access-Control-Allow-Origin header not present
+maintracker.org - Not vulnerable:Access-Control-Allow-Origin header not present
+tatarstan.ru - Alert:Access-Control-Allow-Credentials present
+tatarstan.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+guns.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+tomsk.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+investing.com - Not vulnerable:Access-Control-Allow-Origin header not present
+amazonaws.com - Not vulnerable:Access-Control-Allow-Origin header not present
+gl5.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+mediametrics.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+pandao.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+haa66855mo.club - Error:HTTP Error 404: Not Found
+9111.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+jooble.org - Not vulnerable:Access-Control-Allow-Origin header not present
+baby.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+chaturbate.com - Not vulnerable:Access-Control-Allow-Origin header not present
+pandia.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+3dnews.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+wikihow.com - Not vulnerable:Access-Control-Allow-Origin header not present
+nsn.fm - Not vulnerable:Access-Control-Allow-Origin header not present
+whatsapp.com - Not vulnerable:Access-Control-Allow-Origin header not present
+xhamster.com - Not vulnerable:Access-Control-Allow-Origin header not present
+dota2.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+blablacar.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+chitai-gorod.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+my-shop.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+ontvtime.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+24smi.org - Not vulnerable:Access-Control-Allow-Origin header not present
+rabota.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+oriflame.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+yahoo.com - Not vulnerable:Access-Control-Allow-Origin header not present
+xn--90adear.xn--p1ai - Error:timed out
+bing.com - Not vulnerable:Access-Control-Allow-Origin header not present
+sibnet.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+7ya.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+900igr.net - Not vulnerable:Access-Control-Allow-Origin header not present
+battle.net - Not vulnerable:Access-Control-Allow-Origin header not present
+russian7.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+azbyka.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+cdek.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+alibaba.com - Not vulnerable:Access-Control-Allow-Origin header not present
+avia.pro - Not vulnerable:Access-Control-Allow-Origin header not present
+dropbox.com - Not vulnerable:Access-Control-Allow-Origin header not present
+domru.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+fasttorrent.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+bbc.com - Not vulnerable:Access-Control-Allow-Origin header not present
+blogspot.com - Not vulnerable:Access-Control-Allow-Origin header not present
+aeroflot.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+maximonline.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+kadu.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+babyblog.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+ped-kopilka.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+adultmult.tv - Not vulnerable:Access-Control-Allow-Origin header not present
+livejasmin.com - Not vulnerable:Access-Control-Allow-Origin header not present
+5-tv.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+eg.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+main-rutor.org - Not vulnerable:Access-Control-Allow-Origin header not present
+svoboda.org - Not vulnerable:Access-Control-Allow-Origin header not present
+fontanka.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+directadvert.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+sudrf.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+mirsegondya.com - Not vulnerable:Access-Control-Allow-Origin header not present
+fssprus.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+yaklass.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+crocfilm.club - Not vulnerable:Access-Control-Allow-Origin header not present
+ctc.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+docplayer.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+ebalka.cc - Not vulnerable:Access-Control-Allow-Origin header not present
+utarget.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+uznayvse.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+hm.com - Not vulnerable:Access-Control-Allow-Origin header not present
+technopoint.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+nn.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+100sp.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+text.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+multitran.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+womanadvice.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+e-reading.club - Not vulnerable:Access-Control-Allow-Origin header not present
+emex.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+kulichki.net - Not vulnerable:Access-Control-Allow-Origin header not present
+donationalerts.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+prnt.sc - Not vulnerable:Access-Control-Allow-Origin header not present
+marketgid.com - Not vulnerable:Access-Control-Allow-Origin header not present
+fbcdn.net - Not vulnerable:Access-Control-Allow-Origin header not present
+litmir.me - Not vulnerable:Access-Control-Allow-Origin header not present
+xnxx.com - Not vulnerable:Access-Control-Allow-Origin header not present
+skype.com - Not vulnerable:Access-Control-Allow-Origin header not present
+stopgame.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+kinozal.tv - Not vulnerable:Access-Control-Allow-Origin header not present
+cikrf.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+tparser.org - Not vulnerable:Access-Control-Allow-Origin header not present
+twimg.com - Error:<urlopen error timed out>
+glavnoe.io - Error:<urlopen error [Errno 113] No route to host>
+arbitr.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+forumhouse.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+elle.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+piluli.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+my-hit.org - Not vulnerable:Access-Control-Allow-Origin header not present
+1c.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+alleng.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+alipay.com - Not vulnerable:Access-Control-Allow-Origin header not present
+utorrent.com - Not vulnerable:Access-Control-Allow-Origin header not present
+rosbalt.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+skladchik.com - Not vulnerable:Access-Control-Allow-Origin header not present
+au.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+getcourse.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+nnm-club.me - Not vulnerable:Access-Control-Allow-Origin header not present
+drive2.com - Not vulnerable:Access-Control-Allow-Origin header not present
+wday.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+hotfiesta.com - Not vulnerable:Access-Control-Allow-Origin header not present
+trudvsem.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+hi.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+wmtransfer.com - Not vulnerable:Access-Control-Allow-Origin header not present
+pulscen.ru - Error:HTTP Error 403: Forbidden
+hentai-chan.me - Not vulnerable:Access-Control-Allow-Origin header not present
+m24.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+trud.com - Not vulnerable:Access-Control-Allow-Origin header not present
+eadaily.com - Not vulnerable:Access-Control-Allow-Origin header not present
+mycdn.me - Error:HTTP Error 403: Forbidden
+multoigri.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+faberlic.com - Not vulnerable:Access-Control-Allow-Origin header not present
+mskobr.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+exoclick.com - Not vulnerable:Access-Control-Allow-Origin header not present
+samlib.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+hse.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+github.com - Not vulnerable:Access-Control-Allow-Origin header not present
+edusite.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+lurkmore.to - Not vulnerable:Access-Control-Allow-Origin header not present
+nice-westi.com - Not vulnerable:Access-Control-Allow-Origin header not present
+zapals.com - Not vulnerable:Access-Control-Allow-Origin header not present
+seosprint.net - Not vulnerable:Access-Control-Allow-Origin header not present
+pinimg.com - Not vulnerable:Access-Control-Allow-Origin header not present
+torrent10.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+novostionline.net - Not vulnerable:Access-Control-Allow-Origin header not present
+kino-filmi.net - Not vulnerable:Access-Control-Allow-Origin header not present
+yobit.net - Error:HTTP Error 503: Service Temporarily Unavailable
+eva.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+redtube.com - Not vulnerable:Access-Control-Allow-Origin header not present
+doklad.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+fast-torrent.co - Not vulnerable:Access-Control-Allow-Origin header not present
+mysku.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+argumenti.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+tjournal.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+novayagazeta.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+vtb24.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+gorodrabot.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+ebalovo.com - Not vulnerable:Access-Control-Allow-Origin header not present
+asus.com - Not vulnerable:Access-Control-Allow-Origin header not present
+gamepedia.com - Not vulnerable:Access-Control-Allow-Origin header not present
+povarenok.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+videouroki.net - Not vulnerable:Access-Control-Allow-Origin header not present
+patefon.net - Not vulnerable:Access-Control-Allow-Origin header not present
+smotricams.com - Not vulnerable:Access-Control-Allow-Origin header not present
+vtrahevip.porn - Not vulnerable:Access-Control-Allow-Origin header not present
+dni.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+animespirit.ru - Error:timed out
+kupivip.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+politexpert.net - Not vulnerable:Access-Control-Allow-Origin header not present
+lostfilm-online.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+grouple.co - Not vulnerable:Access-Control-Allow-Origin header not present
+reg.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+101.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+igroutka.net - Not vulnerable:Access-Control-Allow-Origin header not present
+nation-news.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+edu-74.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+forbes.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+4game.com - Not vulnerable:Access-Control-Allow-Origin header not present
+spletnik.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+varlamov.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+bp.blogspot.com - Error:<urlopen error [Errno -5] No address associated with hostname>
+toster.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+nur.kz - Not vulnerable:Access-Control-Allow-Origin header not present
+imdb.com - Not vulnerable:Access-Control-Allow-Origin header not present
+autodoc.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+reshak.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+pravoved.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+wooordhunt.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+olymptrade.com - Alert:Access-Control-Allow-Credentials present
+olymptrade.com - Alert:Pre-domain wildcard
+qip.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+b17.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+ucoz.net - Not vulnerable:Access-Control-Allow-Origin header not present
+onedio.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+depositphotos.com - Not vulnerable:Access-Control-Allow-Origin header not present
+razlozhi.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+stranamam.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+yamoney.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+resheba.com - Not vulnerable:Access-Control-Allow-Origin header not present
+fipi.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+goabd.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+kinotan.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+adidas.ru - Alert:Access-Control-Allow-Credentials present
+adidas.ru - Alert:Origin reflection
+hdkinomax.club - Not vulnerable:Access-Control-Allow-Origin header not present
+polit.info - Not vulnerable:Access-Control-Allow-Origin header not present
+miss-tramell.livejournal.com - Not vulnerable:Access-Control-Allow-Origin header not present
+medialeaks.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+igromania.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+msu.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+zona.plus - Error:<urlopen error [Errno -5] No address associated with hostname>
+canva.com - Not vulnerable:Access-Control-Allow-Origin header not present
+sprashivai.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+biglion.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+antiplagiat.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+euroki.org - Not vulnerable:Access-Control-Allow-Origin header not present
+radiorecord.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+chipdip.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+1plus1tv.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+grandars.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+blizko.ru - Error:HTTP Error 403: Forbidden
+game-game.com.ua - Not vulnerable:Access-Control-Allow-Origin header not present
+reactor.cc - Not vulnerable:Access-Control-Allow-Origin header not present
+studopedia.org - Not vulnerable:Access-Control-Allow-Origin header not present
+dugtor.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+the-village.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+pravoslavie.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+xn--j1ahfl.xn--p1ai - Not vulnerable:Access-Control-Allow-Origin header not present
+gazprombank.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+kino-online.tv - Not vulnerable:Access-Control-Allow-Origin header not present
+epornoflv.tv - Not vulnerable:Access-Control-Allow-Origin header not present
+iphones.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+wowhead.com - Not vulnerable:Access-Control-Allow-Origin header not present
+spaces.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+litnet.com - Not vulnerable:Access-Control-Allow-Origin header not present
+wikireading.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+bugaga.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+mega-mult.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+colonelcassad.livejournal.com - Not vulnerable:Access-Control-Allow-Origin header not present
+exmo.me - Not vulnerable:Access-Control-Allow-Origin header not present
+mediamarkt.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+khl.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+topporno.tv - Not vulnerable:Access-Control-Allow-Origin header not present
+myshows.me - Not vulnerable:Access-Control-Allow-Origin header not present
+advertserve.com - Not vulnerable:Access-Control-Allow-Origin header not present
+1and1.com - Not vulnerable:Access-Control-Allow-Origin header not present
+pegast.ru - Error:Found
+studopedia.su - Not vulnerable:Access-Control-Allow-Origin header not present
+samsung.com - Not vulnerable:Access-Control-Allow-Origin header not present
+europaplus.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+oper.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+finam.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+navalny.com - Not vulnerable:Access-Control-Allow-Origin header not present
+traffic-media.co - Not vulnerable:Access-Control-Allow-Origin header not present
+gdzputina.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+sovets.net - Not vulnerable:Access-Control-Allow-Origin header not present
+bezformata.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+ati.su - Not vulnerable:Access-Control-Allow-Origin header not present
+freebitco.in - Not vulnerable:Access-Control-Allow-Origin header not present
+sovsport.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+nvidia.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+dotabuff.com - Not vulnerable:Access-Control-Allow-Origin header not present
+raiffeisen.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+pravmir.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+lib.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+epn.bz - Not vulnerable:Access-Control-Allow-Origin header not present
+freepik.com - Not vulnerable:Access-Control-Allow-Origin header not present
+uptodown.com - Not vulnerable:Access-Control-Allow-Origin header not present
+mosenergosbyt.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+medside.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+lingualeo.com - Error:HTTP Error 300: Multiple Choices
+studwood.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+google.com.ua - Not vulnerable:Access-Control-Allow-Origin header not present
+promodj.com - Not vulnerable:Access-Control-Allow-Origin header not present
+bestreferat.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+fox-fan.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+proza.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+zr.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+eurosport.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+tankionline.com - Not vulnerable:Access-Control-Allow-Origin header not present
+film.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+anistar.me - Not vulnerable:Access-Control-Allow-Origin header not present
+dochkisinochki.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+newinform.com - Not vulnerable:Access-Control-Allow-Origin header not present
+inforeactor.ru - Alert:Custom header allow with no vary origin - client cache poisoning danger
+viber.com - Not vulnerable:Access-Control-Allow-Origin header not present
+trello.com - Not vulnerable:Access-Control-Allow-Origin header not present
+expert.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+pornorus.tv - Not vulnerable:Access-Control-Allow-Origin header not present
+kassir.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+bonus-spasibo.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+kaspersky.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+findanime.me - Not vulnerable:Access-Control-Allow-Origin header not present
+kinozal-tv.appspot.com - Not vulnerable:Access-Control-Allow-Origin header not present
+sakh.com - Not vulnerable:Access-Control-Allow-Origin header not present
+smmplanner.com - Error:HTTP Error 308: Permanent Redirect
+batsa.me - Not vulnerable:Access-Control-Allow-Origin header not present
+uchitelya.com - Not vulnerable:Access-Control-Allow-Origin header not present
+adbetclickin.pink - Alert:Custom header allow with no vary origin - client cache poisoning danger
+adbetclickin.pink - Not vulnerable:Access-Control-Allow-Origin header not present
+behance.net - Not vulnerable:Access-Control-Allow-Origin header not present
+lumpics.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+torrentom.com - Not vulnerable:Access-Control-Allow-Origin header not present
+nashvybor2018.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+wix.com - Not vulnerable:Access-Control-Allow-Origin header not present
+goodfon.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+edimdoma.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+mchs.gov.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+kinohome.net - Not vulnerable:Access-Control-Allow-Origin header not present
+cybersport.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+domclick.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+ytimg.com - Error:<urlopen error [Errno -5] No address associated with hostname>
+rustorka.com - Not vulnerable:Access-Control-Allow-Origin header not present
+airbnb.ru - Error:<urlopen error [Errno 111] Connection refused>
+jimdo.com - Not vulnerable:Access-Control-Allow-Origin header not present
+popmech.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+vl.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+elcats.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+homecredit.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+avidreaders.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+jobsora.com - Not vulnerable:Access-Control-Allow-Origin header not present
+plarium.com - Not vulnerable:Access-Control-Allow-Origin header not present
+korrespondent.net - Not vulnerable:Access-Control-Allow-Origin header not present
+coop-land.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+rlsnet.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+jut.su - Not vulnerable:Access-Control-Allow-Origin header not present
+nix.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+bigserials.to - Not vulnerable:Access-Control-Allow-Origin header not present
+decathlon.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+dfiles.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+kinogid.me - Not vulnerable:Access-Control-Allow-Origin header not present
+irr.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+rus-porno.org - Not vulnerable:Access-Control-Allow-Origin header not present
+drweb.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+flytri.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+lada.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+playstation.com - Not vulnerable:Access-Control-Allow-Origin header not present
+hdkino.biz - Not vulnerable:Access-Control-Allow-Origin header not present
+postila.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+politikus.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+ng.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+job-mo.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+rutor.org - Not vulnerable:Access-Control-Allow-Origin header not present
+amalgama-lab.com - Not vulnerable:Access-Control-Allow-Origin header not present
+q-ter.com - Not vulnerable:Access-Control-Allow-Origin header not present
+taobao.com - Warning:Access-Control-Allow-Origin dynamically generated
+taobao.com - Not vulnerable:Access-Control-Allow-Origin header not present
+rulit.me - Not vulnerable:Access-Control-Allow-Origin header not present
+skidkaonline.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+glavbukh.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+kinosklad.net - Not vulnerable:Access-Control-Allow-Origin header not present
+joom.com - Not vulnerable:Access-Control-Allow-Origin header not present
+ppy.sh - Not vulnerable:Access-Control-Allow-Origin header not present
+discogs.com - Not vulnerable:Access-Control-Allow-Origin header not present
+wikium.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+grand-casino42.com - Not vulnerable:Access-Control-Allow-Origin header not present
+getadblock.com - Not vulnerable:Access-Control-Allow-Origin header not present
+sravni.ru - Alert:Custom header allow with no vary origin - client cache poisoning danger
+sravni.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+forexpf.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+wixsite.com - Error:<urlopen error [Errno -5] No address associated with hostname>
+rosinfonews.ru - Alert:Access-Control-Allow-Credentials present
+rosinfonews.ru - Alert:Origin reflection
+sport24.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+2ip.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+vse42.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+komus.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+perfectgirls.net - Not vulnerable:Access-Control-Allow-Origin header not present
+littleone.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+hoff.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+news-front.info - Not vulnerable:Access-Control-Allow-Origin header not present
+sendpulse.com - Not vulnerable:Access-Control-Allow-Origin header not present
+flamp.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+pfrf.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+ppt4web.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+ttk.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+hd-1080.com - Not vulnerable:Access-Control-Allow-Origin header not present
+anews.com - Not vulnerable:Access-Control-Allow-Origin header not present
+modxvm.com - Not vulnerable:Access-Control-Allow-Origin header not present
+vkusporno.com - Not vulnerable:Access-Control-Allow-Origin header not present
+edu22.info - Alert:Custom header allow with no vary origin - client cache poisoning danger
+edu22.info - Not vulnerable:Access-Control-Allow-Origin header not present
+melodrama1.com - Not vulnerable:Access-Control-Allow-Origin header not present
+overclockers.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+cap.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+zagonka.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+glavkniga.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+audioknigi.club - Not vulnerable:Access-Control-Allow-Origin header not present
+tradingview.com - Not vulnerable:Access-Control-Allow-Origin header not present
+deti-online.com - Not vulnerable:Access-Control-Allow-Origin header not present
+pnp.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+msi.com - Not vulnerable:Access-Control-Allow-Origin header not present
+edumsko.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+gamebomb.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+multicarta.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+1xstavka.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+fl.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+vtorrents.net - Not vulnerable:Access-Control-Allow-Origin header not present
+warthunder.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+s7.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+100xyev.com - Not vulnerable:Access-Control-Allow-Origin header not present
+travelask.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+evrl.to - Not vulnerable:Access-Control-Allow-Origin header not present
+fast-bit.org - Not vulnerable:Access-Control-Allow-Origin header not present
+computeruniverse.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+vtracker.org - Not vulnerable:Access-Control-Allow-Origin header not present
+dtf.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+mp3cc.org - Error:<urlopen error [Errno -5] No address associated with hostname>
+media.tumblr.com - Error:HTTP Error 403: Forbidden
+vporn.com - Not vulnerable:Access-Control-Allow-Origin header not present
+snob.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+timepad.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+nevnov.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+anextour.com - Alert:Access-Control-Allow-Credentials present
+anextour.com - Alert:Origin reflection
+u-mama.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+rg-mechanics.org - Not vulnerable:Access-Control-Allow-Origin header not present
+photoshop-master.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+fruitmoney.org - Error:<urlopen error [Errno -5] No address associated with hostname>
+74.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+bibliofond.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+fifa.com - Not vulnerable:Access-Control-Allow-Origin header not present
+sinoptik.com.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+friday.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+top-tor.org - Not vulnerable:Access-Control-Allow-Origin header not present
+russian-porn.online - Not vulnerable:Access-Control-Allow-Origin header not present
+ikinohd.club - Not vulnerable:Access-Control-Allow-Origin header not present
+pruffme.com - Not vulnerable:Access-Control-Allow-Origin header not present
+googlevideo.com - Not vulnerable:Access-Control-Allow-Origin header not present
+lawsivo.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+bfm.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+playcast.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+mp3poisk.info - Not vulnerable:Access-Control-Allow-Origin header not present
+hp.com - Not vulnerable:Access-Control-Allow-Origin header not present
+autoins.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+novate.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+klerk.ru - Alert:Access-Control-Allow-Credentials present
+klerk.ru - Alert:Pre-domain wildcard
+nlstar.com - Not vulnerable:Access-Control-Allow-Origin header not present
+vk.me - Not vulnerable:Access-Control-Allow-Origin header not present
+foxford.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+obi.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+kinonix.net - Not vulnerable:Access-Control-Allow-Origin header not present
+humblebundle.com - Not vulnerable:Access-Control-Allow-Origin header not present
+volganet.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+tonkosti.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+mediaget.com - Not vulnerable:Access-Control-Allow-Origin header not present
+3ddd.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+list-org.com - Not vulnerable:Access-Control-Allow-Origin header not present
+royallib.com - Not vulnerable:Access-Control-Allow-Origin header not present
+yesasia.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+shein.com - Not vulnerable:Access-Control-Allow-Origin header not present
+binance.com - Error:<urlopen error [Errno 111] Connection refused>
+epicgames.com - Not vulnerable:Access-Control-Allow-Origin header not present
+cinema-hd.tv - Not vulnerable:Access-Control-Allow-Origin header not present
+mylove.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+business-gazeta.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+tapochek.net - Not vulnerable:Access-Control-Allow-Origin header not present
+buhonline.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+sourceforge.net - Not vulnerable:Access-Control-Allow-Origin header not present
+csgo.com - Error:HTTP Error 503: Service Temporarily Unavailable
+huawei.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+joxi.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+quelle.ru - Alert:Access-Control-Allow-Credentials present
+quelle.ru - Warning:Access-Control-Allow-Origin dynamically generated
+quelle.ru - Warning:Non-ssl site allowed
+anilibria.tv - Not vulnerable:Access-Control-Allow-Origin header not present
+vsegda-plys.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+spravker.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+ea.com - Not vulnerable:Access-Control-Allow-Origin header not present
+bestchange.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+banggood.com - Not vulnerable:Access-Control-Allow-Origin header not present
+obrazovaka.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+sletat.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+nicehash.com - Not vulnerable:Access-Control-Allow-Origin header not present
+adwile.com - Not vulnerable:Access-Control-Allow-Origin header not present
+fantlab.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+last.fm - Not vulnerable:Access-Control-Allow-Origin header not present
+kinored.club - Not vulnerable:Access-Control-Allow-Origin header not present
+xuk.mobi - Not vulnerable:Access-Control-Allow-Origin header not present
+worldofwarships.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+pedportal.net - Not vulnerable:Access-Control-Allow-Origin header not present
+vsemayki.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+easyen.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+sunlight.net - Not vulnerable:Access-Control-Allow-Origin header not present
+surfearner.com - Not vulnerable:Access-Control-Allow-Origin header not present
+bashirian.biz - Error:HTTP Error 403: Forbidden
+new-rutor.co - Not vulnerable:Access-Control-Allow-Origin header not present
+goodster.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+tomica.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+dellin.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+artstation.com - Not vulnerable:Access-Control-Allow-Origin header not present
+oszone.net - Not vulnerable:Access-Control-Allow-Origin header not present
+amocrm.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+spr.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+sex.com - Not vulnerable:Access-Control-Allow-Origin header not present
+cc-gate1.ru - Error:HTTP Error 404: Not Found
+zarplata.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+forgeofempires.com - Not vulnerable:Access-Control-Allow-Origin header not present
+minecraft-inside.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+peopletalk.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+flagma.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+wgmods.net - Not vulnerable:Access-Control-Allow-Origin header not present
+techport.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+new-rutor.org - Not vulnerable:Access-Control-Allow-Origin header not present
+ilibrary.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+n1.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+translate.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+letu.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+pathofexile.com - Not vulnerable:Access-Control-Allow-Origin header not present
+robokassa.ru - Error:The read operation timed out
+nic.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+ru-board.com - Not vulnerable:Access-Control-Allow-Origin header not present
+motormoney.org - Error:<urlopen error [Errno -5] No address associated with hostname>
+justclick.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+vc.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+eset.com - Warning:Access-Control-Allow-Origin dynamically generated
+eset.com - Not vulnerable:Access-Control-Allow-Origin header not present
+mir24.tv - Not vulnerable:Access-Control-Allow-Origin header not present
+gamereleasedate.info - Not vulnerable:Access-Control-Allow-Origin header not present
+mel.fm - Not vulnerable:Access-Control-Allow-Origin header not present
+ostin.com - Not vulnerable:Access-Control-Allow-Origin header not present
+softonic.com - Not vulnerable:Access-Control-Allow-Origin header not present
+pixabay.com - Not vulnerable:Access-Control-Allow-Origin header not present
+kwork.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+cbr.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+heaclub.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+cmle.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+awd.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+tiensmed.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+lyrsense.com - Not vulnerable:Access-Control-Allow-Origin header not present
+sunhome.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+eda.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+smallpdf.com - Not vulnerable:Access-Control-Allow-Origin header not present
+povar.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+tpu.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+at.ua - Not vulnerable:Access-Control-Allow-Origin header not present
+change.org - Not vulnerable:Access-Control-Allow-Origin header not present
+spbu.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+gismeteo.ua - Not vulnerable:Access-Control-Allow-Origin header not present
+petersburgedu.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+f1news.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+oldi.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+uniondht.org - Not vulnerable:Access-Control-Allow-Origin header not present
+deloton.com - Not vulnerable:Access-Control-Allow-Origin header not present
+24video.top - Not vulnerable:Access-Control-Allow-Origin header not present
+film-tor.org - Not vulnerable:Access-Control-Allow-Origin header not present
+adbtc.top - Not vulnerable:Access-Control-Allow-Origin header not present
+exdynsrv.com - Error:<urlopen error [Errno -5] No address associated with hostname>
+free-rutor.org - Not vulnerable:Access-Control-Allow-Origin header not present
+livesport.ws - Not vulnerable:Access-Control-Allow-Origin header not present
+ccleaner.com - Not vulnerable:Access-Control-Allow-Origin header not present
+sudact.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+kino-klub.org - Not vulnerable:Access-Control-Allow-Origin header not present
+dissercat.com - Not vulnerable:Access-Control-Allow-Origin header not present
+auchan.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+cxem.net - Not vulnerable:Access-Control-Allow-Origin header not present
+loveplanet.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+calc.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+kladraz.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+mgts.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+megalyrics.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+satom.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+lenta.com - Not vulnerable:Access-Control-Allow-Origin header not present
+vktarget.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+lektsii.org - Not vulnerable:Access-Control-Allow-Origin header not present
+5terka.com - Not vulnerable:Access-Control-Allow-Origin header not present
+neznaika.pro - Not vulnerable:Access-Control-Allow-Origin header not present
+metod-kopilka.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+sidex.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+rustih.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+icloud.com - Not vulnerable:Access-Control-Allow-Origin header not present
+labporn.com - Not vulnerable:Access-Control-Allow-Origin header not present
+meteoinfo.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+patreon.com - Not vulnerable:Access-Control-Allow-Origin header not present
+protanki.tv - Not vulnerable:Access-Control-Allow-Origin header not present
+gdz-putina.net - Not vulnerable:Access-Control-Allow-Origin header not present
+free-litebro.ru - Error:HTTP Error 403: Forbidden
+kolesa-darom.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+mediamantwo.com - Not vulnerable:Access-Control-Allow-Origin header not present
+threadsphere.bid - Error:<urlopen error [Errno -5] No address associated with hostname>
+politfox.ru - Alert:Access-Control-Allow-Credentials present
+politfox.ru - Alert:Origin reflection
+professionali.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+ukraina.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+goodgame.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+ruobr.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+kolesa.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+mirznanii.com - Not vulnerable:Access-Control-Allow-Origin header not present
+classes.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+book24.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+mirconnect.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+sinonim.org - Not vulnerable:Access-Control-Allow-Origin header not present
+izbirkom.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+bitrix24.net - Not vulnerable:Access-Control-Allow-Origin header not present
+ru-xvideos.tv - Not vulnerable:Access-Control-Allow-Origin header not present
+bessporno.tv - Not vulnerable:Access-Control-Allow-Origin header not present
+nntt.org - Not vulnerable:Access-Control-Allow-Origin header not present
+webinar.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+movavi.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+iamcook.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+vklasse.org - Not vulnerable:Access-Control-Allow-Origin header not present
+timeweb.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+doramakun.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+nalog-nalog.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+vestifinance.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+gks.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+sladkiiflirt.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+bigpicture.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+ozon.travel - Not vulnerable:Access-Control-Allow-Origin header not present
+pornobeauty.net - Not vulnerable:Access-Control-Allow-Origin header not present
+olx.ua - Not vulnerable:Access-Control-Allow-Origin header not present
+xcadr.com - Not vulnerable:Access-Control-Allow-Origin header not present
+fire-topsmi.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+japancats.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+bandcamp.com - Not vulnerable:Access-Control-Allow-Origin header not present
+world-art.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+bgoperator.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+helpiks.org - Not vulnerable:Access-Control-Allow-Origin header not present
+freedom-tor.org - Not vulnerable:Access-Control-Allow-Origin header not present
+otkritkiok.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+zagony.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+mega-tor.org - Not vulnerable:Access-Control-Allow-Origin header not present
+moluch.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+mcgrp.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+tilda.ws - Not vulnerable:Access-Control-Allow-Origin header not present
+pochtabank.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+krasotaimedicina.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+vtrahetop.porn - Not vulnerable:Access-Control-Allow-Origin header not present
+drivemusic.me - Not vulnerable:Access-Control-Allow-Origin header not present
+youdo.com - Not vulnerable:Access-Control-Allow-Origin header not present
+infostart.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+rgho.st - Not vulnerable:Access-Control-Allow-Origin header not present
+aftershock.news - Not vulnerable:Access-Control-Allow-Origin header not present
+files.wordpress.com - Not vulnerable:Access-Control-Allow-Origin header not present
+beboss.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+newstudio.tv - Not vulnerable:Access-Control-Allow-Origin header not present
+autopiter.ru - Alert:Access-Control-Allow-Credentials present
+autopiter.ru - Alert:Origin reflection
+bitmedianetwork.com - Warning:Access-Control-Allow-Origin dynamically generated
+bitmedianetwork.com - Not vulnerable:Access-Control-Allow-Origin header not present
+wallpaperscraft.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+pptcloud.ru - Alert:Custom header allow with no vary origin - client cache poisoning danger
+pptcloud.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+dom2.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+fotosklad.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+haowujie.org - Error:<urlopen error [Errno 111] Connection refused>
+newsland.com - Not vulnerable:Access-Control-Allow-Origin header not present
+vm.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+xmusic.name - Error:<urlopen error [Errno 111] Connection refused>
+avatan.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+kodifikant.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+26-2.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+nashol.com - Not vulnerable:Access-Control-Allow-Origin header not present
+nexusmods.com - Not vulnerable:Access-Control-Allow-Origin header not present
+ucoz.com - Not vulnerable:Access-Control-Allow-Origin header not present
+statgrad.org - Not vulnerable:Access-Control-Allow-Origin header not present
+3dn.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+self-edu.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+diplomba.ru - Error:HTTP Error 403: Forbidden
+drofa-ventana.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+dropmefiles.com - Not vulnerable:Access-Control-Allow-Origin header not present
+zachestnyibiznes.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+caniplay.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+utro.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+drive.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+siteadvisor.com - Not vulnerable:Access-Control-Allow-Origin header not present
+rsl.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+mastergrad.com - Not vulnerable:Access-Control-Allow-Origin header not present
+leagueoflegends.com - Not vulnerable:Access-Control-Allow-Origin header not present
+wikimapia.org - Not vulnerable:Access-Control-Allow-Origin header not present
+sobesednik.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+socpublic.com - Not vulnerable:Access-Control-Allow-Origin header not present
+yandex.ua - Alert:Access-Control-Allow-Credentials present
+yandex.ua - Warning:Arbitrary subdomains allowed
+ronl.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+allwomens.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+kino-hd720.net - Not vulnerable:Access-Control-Allow-Origin header not present
+megashara.com - Not vulnerable:Access-Control-Allow-Origin header not present
+zapmeta.ws - Not vulnerable:Access-Control-Allow-Origin header not present
+best-torrentor.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+postupi.online - Not vulnerable:Access-Control-Allow-Origin header not present
+fonts-online.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+whattomine.com - Not vulnerable:Access-Control-Allow-Origin header not present
+epcdata.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+calend.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+subscribe.ru - Not vulnerable:Access-Control-Allow-Origin header not present
+gramota.ru - Not vulnerable:Access-Control-Allow-Origin header not present
